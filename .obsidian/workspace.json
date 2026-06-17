@@ -116,6 +116,34 @@
             }
           },
           {
+            "id": "ee053f1f3aabf39c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Анализ требований.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Анализ требований"
+            }
+          },
+          {
+            "id": "def8b9409f5fbb25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Анализ требований.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Анализ требований"
+            }
+          },
+          {
             "id": "397b8f5a6894a3c7",
             "type": "leaf",
             "state": {
@@ -128,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -287,30 +315,34 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "b585127c56987a46",
+  "active": "def8b9409f5fbb25",
   "lastOpenFiles": [
+    "Pasted image 20260617181905.png",
+    "pictures/Pasted image 20260617174739.png",
+    "Тестирование.md",
+    "Тестирование производительности.md",
+    "Тестирование ПО.md",
+    "Тестовые артефакты (Test Artifacts).md",
+    "Классификация тестирования.md",
+    "Приоритет проверки.md",
+    "pictures/Pasted image 20260610171050.png",
+    "pictures/Pasted image 20260611172309.png",
+    "Pasted image 20260610170946.png",
+    "Валидация.md",
+    "Верефикация.md",
+    "Анализ требований.md",
+    "Методы тестирования.md",
+    "Модели разработки ПО.md",
+    "7 Принципов тестирования.md",
     "SDLC - Жизненный цикл разработки.md",
     "STLC - Жизненный цикл тестирования.md",
-    "Модели разработки ПО.md",
-    "Pasted image 20260611172309.png",
-    "Тестирование производительности.md",
-    "Pasted image 20260610171050.png",
     "Нефункциональное тестирование.md",
-    "Pasted image 20260610170946.png",
-    "7 Принципов тестирования.md",
-    "Методы тестирования.md",
-    "Классификация тестирования.md",
-    "Верефикация.md",
     "Без названия.canvas",
-    "Тестирование.md",
     "pictures/Pasted image 20260609182907.png",
     "Уровни тестирования (Где проверяем).md",
     "Функциональное тестирование.md",
-    "Валидация.md",
-    "Тестирование ПО.md",
     "2p.md",
     "Типы тестирования (Когда и зачем проверяем).md",
-    "Приоритет проверки.md",
     "QA.md",
     "pictures/Pasted image 20260420161950.png",
     "pictures",
@@ -318,7 +350,6 @@
     "pictures/Pasted image 20260420182538.png",
     "Pasted image 20260420182437.png",
     "pictures/Pasted image 20260420175359.png",
-    "pictures/Pasted image 20260420182055.png",
     "Верефикацию.md",
     "QM.md",
     "Без названия 1.md",
